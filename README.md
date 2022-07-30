@@ -24,6 +24,7 @@ Batch script to update infrastructure
 * PublicSubnet1CIDR/PublicSubnet2CIDR/PrivateSubnet1CIDR/PrivateSubnet2CIDR: The - CIDR of your public and private subnets
 * infrastructure_diagram.png
 The infrastructure Diagram
+![Deployment  Architecture](https://user-images.githubusercontent.com/108627847/181870217-e165c290-7c72-4f0c-ab38-addc8a76d92a.jpeg)
 
 ### Prerequisites
 A user account with programmatic access to AWS via CLI
