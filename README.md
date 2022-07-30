@@ -19,10 +19,10 @@ Batch script to create infrastructure
 * `update.bat`
 Batch script to update infrastructure
 
-* EnvironmentName - The EnvironmentName you want to use for the deployment
-* VpcCIDR - The CIDR of your VPC
-* PublicSubnet1CIDR/PublicSubnet2CIDR/PrivateSubnet1CIDR/PrivateSubnet2CIDR - The CIDR of your public and private subnets
-* infrastructure_diagram.png
+* `EnvironmentName` - The EnvironmentName you want to use for the deployment
+* `VpcCIDR` - The CIDR of your VPC
+* `PublicSubnet1CIDR/PublicSubnet2CIDR/PrivateSubnet1CIDR/PrivateSubnet2CIDR` - The CIDR of your public and private subnets
+* `infrastructure_diagram.png
 
 The infrastructure Diagram
 ![Deployment  Architecture](https://user-images.githubusercontent.com/108627847/181870217-e165c290-7c72-4f0c-ab38-addc8a76d92a.jpeg)
