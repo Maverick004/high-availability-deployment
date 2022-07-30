@@ -1,0 +1,1 @@
+DNS NAME: http://sasuk-webap-zzi1ms87fw7f-1637582047.us-west-2.elb.amazonaws.com/
